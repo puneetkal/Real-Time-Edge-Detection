@@ -1,6 +1,7 @@
 # Video Processing with OpenCV
 
 This project demonstrates video frame processing using OpenCV. The script processes a video file (`visc.MOV`) to isolate and manipulate specific color channels, apply Gaussian blur, threshold the image, and detect edges.
+![Real time edge detection](https://github.com/user-attachments/assets/5ec9d6b7-c432-4022-b705-7f3a2b227478)
 
 ## Features
 
